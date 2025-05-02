@@ -1,0 +1,14 @@
+﻿<Window x:Class="Quanlysinhvien.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:login="clr-namespace:Quanlysinhvien.Views.Login"
+        Title="Quản lý Sinh viên" Height="600" Width="900" 
+        WindowStyle="none"
+         WindowState="Maximized"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <ContentControl x:Name="MainContent">
+            <login:LoginView/>
+        </ContentControl>
+    </Grid>
+</Window>

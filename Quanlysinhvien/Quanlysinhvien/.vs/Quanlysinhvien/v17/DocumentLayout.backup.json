@@ -1,0 +1,806 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\views\\user\\usermainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\views\\user\\usermainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\views\\user\\updateprofileview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\views\\user\\updateprofileview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\views\\user\\usermainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\views\\user\\usermainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\views\\user\\usersubjectlistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\views\\user\\usersubjectlistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\views\\admin\\userrolemanagementview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\views\\admin\\userrolemanagementview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\views\\admin\\usermanagementview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\views\\admin\\usermanagementview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\views\\admin\\studentmanagementview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\views\\admin\\studentmanagementview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\viewmodels\\usersubjectlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\viewmodels\\usersubjectlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\viewmodels\\updateprofileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\viewmodels\\updateprofileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\viewmodels\\subjectregistrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\viewmodels\\subjectregistrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\views\\admin\\usermanagementview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\views\\admin\\usermanagementview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\views\\admin\\provincemanagementview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\views\\admin\\provincemanagementview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\helpers\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\helpers\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\views\\user\\usersubjectlistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\views\\user\\usersubjectlistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\views\\user\\subjectregistrationview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\views\\user\\subjectregistrationview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\views\\user\\subjectregistrationview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\views\\user\\subjectregistrationview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\views\\admin\\subjectmanagementview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\views\\admin\\subjectmanagementview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\views\\admin\\subjectmanagementview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\views\\admin\\subjectmanagementview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\views\\admin\\studentmanagementview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\views\\admin\\studentmanagementview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\views\\admin\\provincemanagementview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\views\\admin\\provincemanagementview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\views\\admin\\userrolemanagementview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\views\\admin\\userrolemanagementview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\views\\admin\\rolemanagementview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\views\\admin\\rolemanagementview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\views\\admin\\rolemanagementview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\views\\admin\\rolemanagementview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\views\\admin\\adminmainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\views\\admin\\adminmainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\views\\admin\\enrolmanagementview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\views\\admin\\enrolmanagementview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\views\\admin\\adminmainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\views\\admin\\adminmainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\views\\admin\\enrolmanagementview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\views\\admin\\enrolmanagementview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\views\\login\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\views\\login\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\views\\login\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\views\\login\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\views\\user\\updateprofileview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\views\\user\\updateprofileview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\models\\enrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\models\\enrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\helpers\\booleantotextconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\helpers\\booleantotextconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\models\\province.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\models\\province.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|d:\\cntt17a\\ado.net\\ktm\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFC7234-7C39-4952-B8DE-C7D86BA3A3F3}|Quanlysinhvien\\Quanlysinhvien.csproj|solutionrelative:quanlysinhvien\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 412,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 332,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserMainView.xaml.cs",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\User\\UserMainView.xaml.cs",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\Views\\User\\UserMainView.xaml.cs",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\User\\UserMainView.xaml.cs",
+              "RelativeToolTip": "Quanlysinhvien\\Views\\User\\UserMainView.xaml.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T17:32:10.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserSubjectListView.xaml",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\User\\UserSubjectListView.xaml",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\Views\\User\\UserSubjectListView.xaml",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\User\\UserSubjectListView.xaml",
+              "RelativeToolTip": "Quanlysinhvien\\Views\\User\\UserSubjectListView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-12T17:32:50.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserMainView.xaml",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\User\\UserMainView.xaml",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\Views\\User\\UserMainView.xaml",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\User\\UserMainView.xaml",
+              "RelativeToolTip": "Quanlysinhvien\\Views\\User\\UserMainView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-12T17:31:56.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateProfileView.xaml",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\User\\UpdateProfileView.xaml",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\Views\\User\\UpdateProfileView.xaml",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\User\\UpdateProfileView.xaml",
+              "RelativeToolTip": "Quanlysinhvien\\Views\\User\\UpdateProfileView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-12T17:33:18.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRoleManagementView.xaml",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\Admin\\UserRoleManagementView.xaml",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\Views\\Admin\\UserRoleManagementView.xaml",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\Admin\\UserRoleManagementView.xaml",
+              "RelativeToolTip": "Quanlysinhvien\\Views\\Admin\\UserRoleManagementView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-17T15:37:01.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserManagementView.xaml",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\Admin\\UserManagementView.xaml",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\Views\\Admin\\UserManagementView.xaml",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\Admin\\UserManagementView.xaml",
+              "RelativeToolTip": "Quanlysinhvien\\Views\\Admin\\UserManagementView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-17T04:27:07.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentManagementView.xaml.cs",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\Admin\\StudentManagementView.xaml.cs",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\Views\\Admin\\StudentManagementView.xaml.cs",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\Admin\\StudentManagementView.xaml.cs",
+              "RelativeToolTip": "Quanlysinhvien\\Views\\Admin\\StudentManagementView.xaml.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAADwv9IAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T17:26:57.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateProfileViewModel.cs",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\ViewModels\\UpdateProfileViewModel.cs",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\ViewModels\\UpdateProfileViewModel.cs",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\ViewModels\\UpdateProfileViewModel.cs",
+              "RelativeToolTip": "Quanlysinhvien\\ViewModels\\UpdateProfileViewModel.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAqwJEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T04:22:49.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserSubjectListViewModel.cs",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\ViewModels\\UserSubjectListViewModel.cs",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\ViewModels\\UserSubjectListViewModel.cs",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\ViewModels\\UserSubjectListViewModel.cs",
+              "RelativeToolTip": "Quanlysinhvien\\ViewModels\\UserSubjectListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T04:17:06.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SubjectRegistrationViewModel.cs",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\ViewModels\\SubjectRegistrationViewModel.cs",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\ViewModels\\SubjectRegistrationViewModel.cs",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\ViewModels\\SubjectRegistrationViewModel.cs",
+              "RelativeToolTip": "Quanlysinhvien\\ViewModels\\SubjectRegistrationViewModel.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T04:04:53.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserManagementView.xaml.cs",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\Admin\\UserManagementView.xaml.cs",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\Views\\Admin\\UserManagementView.xaml.cs",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\Admin\\UserManagementView.xaml.cs",
+              "RelativeToolTip": "Quanlysinhvien\\Views\\Admin\\UserManagementView.xaml.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAAANgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T02:08:46.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProvinceManagementView.xaml",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\Admin\\ProvinceManagementView.xaml",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\Views\\Admin\\ProvinceManagementView.xaml",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\Admin\\ProvinceManagementView.xaml",
+              "RelativeToolTip": "Quanlysinhvien\\Views\\Admin\\ProvinceManagementView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-12T17:30:48.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Helpers\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\Helpers\\DatabaseHelper.cs",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Helpers\\DatabaseHelper.cs",
+              "RelativeToolTip": "Quanlysinhvien\\Helpers\\DatabaseHelper.cs",
+              "ViewState": "AgIAAIUEAAAAAAAAAADwv7IEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T18:04:28.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserSubjectListView.xaml.cs",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\User\\UserSubjectListView.xaml.cs",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\Views\\User\\UserSubjectListView.xaml.cs",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\User\\UserSubjectListView.xaml.cs",
+              "RelativeToolTip": "Quanlysinhvien\\Views\\User\\UserSubjectListView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T04:15:22.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "Quanlysinhvien\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T17:41:50.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SubjectRegistrationView.xaml.cs",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\User\\SubjectRegistrationView.xaml.cs",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\Views\\User\\SubjectRegistrationView.xaml.cs",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\User\\SubjectRegistrationView.xaml.cs",
+              "RelativeToolTip": "Quanlysinhvien\\Views\\User\\SubjectRegistrationView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T04:13:03.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SubjectRegistrationView.xaml",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\User\\SubjectRegistrationView.xaml",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\Views\\User\\SubjectRegistrationView.xaml",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\User\\SubjectRegistrationView.xaml",
+              "RelativeToolTip": "Quanlysinhvien\\Views\\User\\SubjectRegistrationView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-12T17:32:29.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SubjectManagementView.xaml.cs",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\Admin\\SubjectManagementView.xaml.cs",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\Views\\Admin\\SubjectManagementView.xaml.cs",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\Admin\\SubjectManagementView.xaml.cs",
+              "RelativeToolTip": "Quanlysinhvien\\Views\\Admin\\SubjectManagementView.xaml.cs",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAuwBUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T17:30:32.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SubjectManagementView.xaml",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\Admin\\SubjectManagementView.xaml",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\Views\\Admin\\SubjectManagementView.xaml",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\Admin\\SubjectManagementView.xaml",
+              "RelativeToolTip": "Quanlysinhvien\\Views\\Admin\\SubjectManagementView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-17T04:26:52.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StudentManagementView.xaml",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\Admin\\StudentManagementView.xaml",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\Views\\Admin\\StudentManagementView.xaml",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\Admin\\StudentManagementView.xaml",
+              "RelativeToolTip": "Quanlysinhvien\\Views\\Admin\\StudentManagementView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-24T03:35:34.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProvinceManagementView.xaml.cs",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\Admin\\ProvinceManagementView.xaml.cs",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\Views\\Admin\\ProvinceManagementView.xaml.cs",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\Admin\\ProvinceManagementView.xaml.cs",
+              "RelativeToolTip": "Quanlysinhvien\\Views\\Admin\\ProvinceManagementView.xaml.cs",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAAACMBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T17:31:01.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserRoleManagementView.xaml.cs",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\Admin\\UserRoleManagementView.xaml.cs",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\Views\\Admin\\UserRoleManagementView.xaml.cs",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\Admin\\UserRoleManagementView.xaml.cs",
+              "RelativeToolTip": "Quanlysinhvien\\Views\\Admin\\UserRoleManagementView.xaml.cs",
+              "ViewState": "AgIAAAkBAAAAAAAAAAAuwDEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T17:30:10.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RoleManagementView.xaml.cs",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\Admin\\RoleManagementView.xaml.cs",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\Views\\Admin\\RoleManagementView.xaml.cs",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\Admin\\RoleManagementView.xaml.cs",
+              "RelativeToolTip": "Quanlysinhvien\\Views\\Admin\\RoleManagementView.xaml.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAuwPsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T00:37:39.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RoleManagementView.xaml",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\Admin\\RoleManagementView.xaml",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\Views\\Admin\\RoleManagementView.xaml",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\Admin\\RoleManagementView.xaml",
+              "RelativeToolTip": "Quanlysinhvien\\Views\\Admin\\RoleManagementView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-12T17:29:03.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdminMainView.xaml.cs",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\Admin\\AdminMainView.xaml.cs",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\Views\\Admin\\AdminMainView.xaml.cs",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\Admin\\AdminMainView.xaml.cs",
+              "RelativeToolTip": "Quanlysinhvien\\Views\\Admin\\AdminMainView.xaml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAqwD4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T17:22:22.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EnrolManagementView.xaml",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\Admin\\EnrolManagementView.xaml",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\Views\\Admin\\EnrolManagementView.xaml",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\Admin\\EnrolManagementView.xaml",
+              "RelativeToolTip": "Quanlysinhvien\\Views\\Admin\\EnrolManagementView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-17T04:24:03.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdminMainView.xaml",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\Admin\\AdminMainView.xaml",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\Views\\Admin\\AdminMainView.xaml",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\Admin\\AdminMainView.xaml",
+              "RelativeToolTip": "Quanlysinhvien\\Views\\Admin\\AdminMainView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-12T17:21:38.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EnrolManagementView.xaml.cs",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\Admin\\EnrolManagementView.xaml.cs",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\Views\\Admin\\EnrolManagementView.xaml.cs",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\Admin\\EnrolManagementView.xaml.cs",
+              "RelativeToolTip": "Quanlysinhvien\\Views\\Admin\\EnrolManagementView.xaml.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAYwKsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:23:56.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "Quanlysinhvien\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAqwI0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T17:43:07.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\Login\\LoginView.xaml",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\Views\\Login\\LoginView.xaml",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\Login\\LoginView.xaml",
+              "RelativeToolTip": "Quanlysinhvien\\Views\\Login\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-12T17:18:25.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\Login\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\Views\\Login\\LoginView.xaml.cs",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\Login\\LoginView.xaml.cs",
+              "RelativeToolTip": "Quanlysinhvien\\Views\\Login\\LoginView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T17:21:24.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\MainWindow.xaml",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\MainWindow.xaml",
+              "RelativeToolTip": "Quanlysinhvien\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-12T17:17:06.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UpdateProfileView.xaml.cs",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\User\\UpdateProfileView.xaml.cs",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\Views\\User\\UpdateProfileView.xaml.cs",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Views\\User\\UpdateProfileView.xaml.cs",
+              "RelativeToolTip": "Quanlysinhvien\\Views\\User\\UpdateProfileView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T17:33:25.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\Models\\Role.cs",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Models\\Role.cs",
+              "RelativeToolTip": "Quanlysinhvien\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T17:38:12.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\Models\\User.cs",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Models\\User.cs",
+              "RelativeToolTip": "Quanlysinhvien\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T17:37:43.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\App.xaml",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\App.xaml",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\App.xaml",
+              "RelativeToolTip": "Quanlysinhvien\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-17T16:11:28.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Enrol.cs",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Models\\Enrol.cs",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\Models\\Enrol.cs",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Models\\Enrol.cs",
+              "RelativeToolTip": "Quanlysinhvien\\Models\\Enrol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T17:39:34.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\AssemblyInfo.cs",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\AssemblyInfo.cs",
+              "RelativeToolTip": "Quanlysinhvien\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:24:59.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\App.xaml.cs",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\App.xaml.cs",
+              "RelativeToolTip": "Quanlysinhvien\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:25:04.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Helpers\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\Helpers\\RelayCommand.cs",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Helpers\\RelayCommand.cs",
+              "RelativeToolTip": "Quanlysinhvien\\Helpers\\RelayCommand.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T18:05:45.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BooleanToTextConverter.cs",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Helpers\\BooleanToTextConverter.cs",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\Helpers\\BooleanToTextConverter.cs",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Helpers\\BooleanToTextConverter.cs",
+              "RelativeToolTip": "Quanlysinhvien\\Helpers\\BooleanToTextConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T02:21:43.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Province.cs",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Models\\Province.cs",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\Models\\Province.cs",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Models\\Province.cs",
+              "RelativeToolTip": "Quanlysinhvien\\Models\\Province.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T17:39:51.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\Models\\Student.cs",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Models\\Student.cs",
+              "RelativeToolTip": "Quanlysinhvien\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T17:37:04.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\Models\\UserRole.cs",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Models\\UserRole.cs",
+              "RelativeToolTip": "Quanlysinhvien\\Models\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T19:01:41.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\Models\\Subject.cs",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Models\\Subject.cs",
+              "RelativeToolTip": "Quanlysinhvien\\Models\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T17:39:10.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Quanlysinhvien\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\CNTT17A\\ADO.Net\\KTM\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\Quanlysinhvien\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Quanlysinhvien\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T17:17:04.208Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

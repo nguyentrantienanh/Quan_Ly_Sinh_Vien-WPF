@@ -1,0 +1,198 @@
+﻿<UserControl x:Class="Quanlysinhvien.Views.Admin.EnrolManagementView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             Height="Auto" Width="Auto">
+    <UserControl.Resources>
+        <!-- Kiểu cho TextBox với hiệu ứng khi chọn và di chuột -->
+        <Style x:Key="SearchTextBoxStyle" TargetType="TextBox">
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="BorderBrush" Value="#CFD8DC"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Padding" Value="8"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Height" Value="36"/>
+            <Setter Property="Width" Value="250"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="TextBox">
+                        <Border x:Name="Border"
+                                Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="{TemplateBinding BorderThickness}"
+                                CornerRadius="5">
+                            <Grid>
+                                <ScrollViewer x:Name="PART_ContentHost" Margin="2"/>
+                                <TextBlock x:Name="PlaceholderText" Text="Nhập mã hoặc tên SV" 
+                                           Foreground="#B0BEC5" FontSize="14" Padding="10,0,0,0"
+                                           VerticalAlignment="Center" IsHitTestVisible="False"
+                                           Visibility="Visible"/>
+                            </Grid>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <!-- Hiệu ứng khi focus, ưu tiên ẩn placeholder -->
+                            <Trigger Property="IsFocused" Value="True">
+                                <Setter TargetName="Border" Property="BorderBrush" Value="#1976D2"/>
+                                <Setter TargetName="Border" Property="Effect">
+                                    <Setter.Value>
+                                        <DropShadowEffect Color="#1976D2" ShadowDepth="0" BlurRadius="8" Opacity="0.3"/>
+                                    </Setter.Value>
+                                </Setter>
+                                <Setter TargetName="PlaceholderText" Property="Visibility" Value="Collapsed"/>
+                            </Trigger>
+                            <!-- Hiệu ứng khi di chuột -->
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="Border" Property="BorderBrush" Value="#90A4AE"/>
+                            </Trigger>
+                            <!-- Ẩn placeholder khi có nội dung -->
+                            <Trigger Property="Text" Value="">
+                                <Setter TargetName="PlaceholderText" Property="Visibility" Value="Visible"/>
+                            </Trigger>
+                            <Trigger Property="Text" Value="{x:Null}">
+                                <Setter TargetName="PlaceholderText" Property="Visibility" Value="Visible"/>
+                            </Trigger>
+                            <!-- Hiển thị placeholder khi không focus và không có nội dung -->
+                            <MultiTrigger>
+                                <MultiTrigger.Conditions>
+                                    <Condition Property="Text" Value=""/>
+                                    <Condition Property="IsFocused" Value="False"/>
+                                </MultiTrigger.Conditions>
+                                <Setter TargetName="PlaceholderText" Property="Visibility" Value="Visible"/>
+                            </MultiTrigger>
+                            <MultiTrigger>
+                                <MultiTrigger.Conditions>
+                                    <Condition Property="Text" Value="{x:Null}"/>
+                                    <Condition Property="IsFocused" Value="False"/>
+                                </MultiTrigger.Conditions>
+                                <Setter TargetName="PlaceholderText" Property="Visibility" Value="Visible"/>
+                            </MultiTrigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- Kiểu cho nút phân trang -->
+        <Style x:Key="PaginationButtonStyle" TargetType="Button">
+            <Setter Property="Background" Value="#1976D2"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="Width" Value="100"/>
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="BorderBrush" Value="Transparent"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="Border"
+                                Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="{TemplateBinding BorderThickness}"
+                                CornerRadius="5">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="Border" Property="Background" Value="#1E88E5"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter TargetName="Border" Property="Background" Value="#1565C0"/>
+                            </Trigger>
+                            <Trigger Property="IsEnabled" Value="False">
+                                <Setter TargetName="Border" Property="Background" Value="#B0BEC5"/>
+                                <Setter Property="Foreground" Value="#ECEFF1"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style TargetType="DataGridColumnHeader">
+            <Setter Property="Background" Value="#1976D2"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Padding" Value="8"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="BorderBrush" Value="#E0E0E0"/>
+        </Style>
+    </UserControl.Resources>
+
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Phần tìm kiếm -->
+        <Border Grid.Row="0" Background="White" CornerRadius="8" Padding="15" Margin="0,0,0,15">
+            <Border.Effect>
+                <DropShadowEffect Color="#CFD8DC" Direction="270" ShadowDepth="2" Opacity="0.2"/>
+            </Border.Effect>
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                <TextBlock Text="🔍 Tìm kiếm:" FontSize="16" FontWeight="SemiBold" Foreground="#263238" 
+                           Margin="0,0,10,0" VerticalAlignment="Center"/>
+                <TextBox x:Name="SearchTextBox" Style="{StaticResource SearchTextBoxStyle}" 
+                         TextChanged="SearchTextBox_TextChanged" Height="46"/>
+            </StackPanel>
+        </Border>
+
+        <!-- Phần DataGrid -->
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <TextBlock Grid.Row="0" Text="📋 Danh sách đăng ký môn học" FontSize="18" FontWeight="Bold" 
+                       Foreground="#263238" HorizontalAlignment="Left" Margin="0,0,0,10"/>
+            <Grid Grid.Row="1">
+                <DataGrid x:Name="EnrolDataGrid" AutoGenerateColumns="False" 
+                          Background="WhiteSmoke" BorderThickness="1" BorderBrush="#CFD8DC"
+                          AlternatingRowBackground="#ECEFF1" HeadersVisibility="Column"
+                          IsReadOnly="True" CanUserAddRows="False">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="🎓 Mã SV" Binding="{Binding IdStudent}" Width="100" IsReadOnly="True"/>
+                        <DataGridTextColumn Header="👤 Tên SV" Binding="{Binding StudentName}" Width="200" IsReadOnly="True"/>
+                        <DataGridTextColumn Header="📌 Mã môn học" Binding="{Binding IdSubject}" Width="150" IsReadOnly="True"/>
+                        <DataGridTextColumn Header="📝 Tên môn học" Binding="{Binding SubjectName}" Width="250" IsReadOnly="True"/>
+                        <DataGridTextColumn Header="⭐ Điểm" 
+                                            Binding="{Binding Mark, StringFormat=N1}" 
+                                            Width="*">
+                            <DataGridTextColumn.ElementStyle>
+                                <Style TargetType="TextBlock">
+                                    <Setter Property="TextAlignment" Value="Right"/>
+                                </Style>
+                            </DataGridTextColumn.ElementStyle>
+                        </DataGridTextColumn>
+                    </DataGrid.Columns>
+                </DataGrid>
+                <!-- Thông báo khi không có kết quả -->
+                <TextBlock x:Name="NoResultsTextBlock" Text="Không có sinh viên bạn muốn tìm" 
+                           FontSize="16" Foreground="#78909C" HorizontalAlignment="Center" VerticalAlignment="Center"
+                           Visibility="Collapsed"/>
+            </Grid>
+        </Grid>
+
+        <!-- Phần phân trang và số bản ghi -->
+        <Grid Grid.Row="2" Margin="0,10,0,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <!-- Phân trang -->
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                <Button Content="Trang trước" Style="{StaticResource PaginationButtonStyle}" 
+                        Click="PreviousPage_Click" x:Name="PreviousButton"/>
+                <TextBlock x:Name="PageInfoTextBlock" FontSize="14" Foreground="#263238" 
+                           VerticalAlignment="Center" Margin="10,0" Text="Trang 1/1"/>
+                <Button Content="Trang sau" Style="{StaticResource PaginationButtonStyle}" 
+                        Click="NextPage_Click" x:Name="NextButton"/>
+            </StackPanel>
+            <!-- Số bản ghi -->
+            <TextBlock Grid.Column="1" Text="{Binding ElementName=EnrolDataGrid, Path=Items.Count, StringFormat='Tổng số bản ghi: {0}'}" 
+                       FontSize="14" Foreground="#263238" HorizontalAlignment="Right"/>
+        </Grid>
+    </Grid>
+</UserControl>
